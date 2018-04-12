@@ -6,8 +6,9 @@ The server side requires PHP and a MySQL Database to be setup before it can be r
 
 To Start the server you must change into the directory with `cd server`. Run `composer install` to install the dependencies and then start the server using `composer start`.
 
-```shell
+```text
 cd server
 composer install
 composer start
 ```
+

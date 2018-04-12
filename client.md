@@ -1,6 +1,6 @@
 # Client
 
-![React App Screenshot](../docs/client-screenshot.png)
+![React App Screenshot](.gitbook/assets/client-screenshot%20%281%29.png)
 
 The Client side is a React Web application. The client-side requires [Node.js](https://nodejs.org/en/) to be installed before it can be run. To Run the client side, you must change into the directory with `cd client`. If dependencies are not installed run `npm install` to install them and then you can run the test using `npm start`.
 
@@ -19,3 +19,4 @@ cd client
 npm install
 npm run storybook
 ```
+
